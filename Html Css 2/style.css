@@ -1,0 +1,30 @@
+p{
+    font-style: italic;
+}
+
+
+img{
+    width: 220px;
+}
+
+
+a{
+    font-size: 25px;
+    color: brown;
+}
+
+
+.first-image{
+    height: 310px;
+}
+
+
+.second-image{
+    width: 200px;
+    height: 315px;
+}
+
+
+.third-image{
+    height: 315px;
+}
